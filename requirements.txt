@@ -2,3 +2,7 @@ streamlit
 scikit-learn
 pandas
 numpy
+pillow
+keras
+tensorflow
+
